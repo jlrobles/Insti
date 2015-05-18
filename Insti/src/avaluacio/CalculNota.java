@@ -3,7 +3,10 @@ package avaluacio;
 import java.text.DecimalFormat;
 
 public class CalculNota {
-
+    public static void main(String[] args) {
+        
+    }
+    
     public static int calculaNota(String modul, String uf, int notes[]) {
         double lanota = 0.0;
         int lanotaint = 0;
